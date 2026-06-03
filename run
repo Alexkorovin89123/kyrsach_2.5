@@ -1,0 +1,2 @@
+gcc create_test.c -o create_test.exe
+create_test.exe
